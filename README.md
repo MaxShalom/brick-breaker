@@ -1,5 +1,5 @@
 # Brick Breaker
-A short, one-level, Brick Breaker game, made as a beginner project. 
+A short, one-level, Brick Breaker game, made as a beginner project in Unity. Feel free to fork it and play around with the game and add to it.
 
 I plan to add more levels and features to the game soon.
 
